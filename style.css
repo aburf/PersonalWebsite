@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Train+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Spectral&display=swap');
+
 .header
 , .midcontainer1
 , .midcontainer2
@@ -17,6 +21,11 @@ body{
 a{
     all: unset;
   }
+
+.header-logo{
+ font-family: 'Spectral', 'Prata', sans-serif, 'Times New Roman', Times, serif;   
+}
+/*'Train One'*/
 
 
 .header, .midcontainer1, .footer{
