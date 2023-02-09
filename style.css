@@ -23,9 +23,9 @@ a{
   }
 
 .header-logo{
- font-family: 'Spectral', 'Prata', sans-serif, 'Times New Roman', Times, serif;   
+ font-family: 'Spectral', 'Prata', sans-serif, 'Times New Roman', Times, serif;  
+ color:  rgba(57, 224, 196, 0.74); 
 }
-/*'Train One'*/
 
 
 .header, .midcontainer1, .footer{
@@ -61,11 +61,11 @@ ul li{
     flex: 1;
 }
     .leftsub1-1{
-        font-size: 48px;
+        font-size: 55px;
         font-weight: 800;
     }
     .leftsub1-2{
-        font-size: 18px;
+        font-size: 30px;
         color: #e5e7eb;
     }
 
