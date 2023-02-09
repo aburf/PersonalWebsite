@@ -180,7 +180,13 @@ ul li{
     text-align: center;
 }
 
-
+.profilepic{
+    max-width: 90%;
+    max-height: 90%;
+    border-style: outset;
+    border-color: rgba(16, 107, 92, 0.637);
+    border:  5px;
+}
 
 /*NAVBAR WORK*/
 /* Navbar container */
